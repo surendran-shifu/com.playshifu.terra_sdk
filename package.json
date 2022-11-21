@@ -6,8 +6,7 @@
 	"author": "Surendran CJ",
 	"description": "Core Utilities for making Terra Games",
 	"dependencies": {
-		"com.unity.cinemachine" : "2.8.9",
-		"com.demigiant.dotween": "https://github.com/grashaar/DOTween.git"
+		"com.unity.cinemachine" : "2.8.9"
 	},
 	"repository": {
 		"type": "git",
