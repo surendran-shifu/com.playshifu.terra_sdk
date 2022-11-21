@@ -6,11 +6,9 @@
 	"author": "Surendran CJ",
 	"description": "Core Utilities for making Terra Games",
 	"dependencies": {
-		"com.unity.cinemachine" : "2.8.9",
-		"com.unity.textmeshpro" : "3.0.6"
+		"com.unity.cinemachine" : "2.8.9"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/shifuadmin/terra_sdk.git"
+		"url": "https://github.com/surendran-shifu/com.playshifu.terra_sdk.git"
 	}
-}
