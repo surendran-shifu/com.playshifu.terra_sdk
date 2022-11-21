@@ -1,0 +1,15 @@
+{
+	"name": "com.playshifu.terra_sdk",
+	"displayName": "Terra Care Package",
+	"version": "0.0.1",
+	"unity": "2021.3",
+	"author": "Surendran CJ",
+	"description": "Core Utilities for making Terra Games",
+	"dependencies": {
+		"com.unity.cinemachine" : "2.8.9"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/shifuadmin/terra_sdk.git"
+	}
+}
