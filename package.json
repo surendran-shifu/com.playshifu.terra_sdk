@@ -7,7 +7,8 @@
 	"description": "Core Utilities for making Terra Games",
 	"dependencies": {
 		"com.unity.cinemachine" : "2.8.9",
-		"com.atteneder.ktx": "https://gitlab.com/atteneder/ktxunity.git"
+		"com.unity.textmeshpro": "3.0.6",
+		"com.unity.timeline": "1.6.4",
 	},
 	"repository": {
 		"type": "git",
