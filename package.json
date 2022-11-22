@@ -6,7 +6,8 @@
 	"author": "Surendran CJ",
 	"description": "Core Utilities for making Terra Games",
 	"dependencies": {
-		"com.unity.cinemachine" : "2.8.9"
+		"com.unity.cinemachine" : "2.8.9",
+		"com.atteneder.ktx": "https://gitlab.com/atteneder/ktxunity.git"
 	},
 	"repository": {
 		"type": "git",
